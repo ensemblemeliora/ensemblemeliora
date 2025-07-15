@@ -2,7 +2,7 @@ title: Ensemble Name
 description: Built with Minima
 theme: minima
 
-baseurl: "/site_test"
+baseurl: "/"
 
 minima:
   include_custom_css: true
