@@ -1,0 +1,16 @@
+title: Ensemble Name
+description: Built with Minima
+theme: minima
+
+baseurl: "/site_test"
+
+minima:
+  include_custom_css: true
+
+header_pages:
+  - about.md
+  - members.md
+  - schedule.md
+  - watch_listen.md
+  - contact.md
+
