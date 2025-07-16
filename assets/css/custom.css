@@ -8,6 +8,12 @@
   z-index: -1;
 }
 
+/* Site logo in header*/
+.site-logo {
+  height: 40px;   
+  width: auto;    
+}
+
 /* Centered text */
 .centered-text-block {
   max-width: 600px;
