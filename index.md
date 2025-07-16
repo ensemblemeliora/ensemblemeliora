@@ -3,7 +3,7 @@ layout: fullscreen
 title: Ensemble Name
 ---
 
-<div style="height: 6rem;"></div>
+<div style="height: 8rem;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/EM_Blue_Photo_Collage_bigger.jpg" alt="our group!" class="full-banner">
 
