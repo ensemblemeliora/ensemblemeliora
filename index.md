@@ -12,7 +12,7 @@ title: Ensemble Name
 <div class="text-image-row">
   <div class="text-column">
     <p>
-    <strong>Call me Ishmael.</strong> Some  years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world. It is a way I have of driving off the <strong>spleen and regulating the circulation.</strong>
+    <strong>Call me  Ishmael.</strong> Some  years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world. It is a way I have of driving off the <strong>spleen and regulating the circulation.</strong>
     </p>
     <p>
     Whenever I find myself growing grim about the mouth; whenever it is a damp, <strong>drizzly November in my soul</strong>; whenever I find myself involuntarily pausing before coffin warehouses, and bringing up the rear of every funeral I meet; and especially whenever my hypos get such an upper hand of me, that it requires a strong moral principle to prevent me from <strong>deliberately stepping into the street</strong>, and methodically knocking people’s hats off—then, I account it high <strong>time to get to sea</strong> as soon as I can. 
