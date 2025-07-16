@@ -12,7 +12,7 @@ title: Ensemble Name
 <div class="text-image-row">
   <div class="text-column">
     <p>
-    Ensemble Meliora is an early music group based in the East Coast. With members hailing from New York, Chicago, Baltimore, and abroad, Ensemble Meliora boasts a roster with some of today's most in-demand young performers. Meeting in undergraduate practice rooms, late night viol consort rehearsals, and summer festivals, we've put together a band of truly wonderful and inquisitive musicians and people. We hope you join us in our mission to become *ever better* through our exploration of the past.
+    Ensemble Meliora is an early music group based in the East Coast. With members hailing from New York, Chicago, Baltimore, and abroad, Ensemble Meliora boasts a roster with some of today's most in-demand young performers. Meeting in undergraduate practice rooms, late night viol consort rehearsals, and summer festivals, we've put together a band of truly wonderful and inquisitive musicians and people. We hope you join us in our mission to become <em>ever better</em> through our exploration of the past.
     </p>
   </div>
   <div class="image-column">
