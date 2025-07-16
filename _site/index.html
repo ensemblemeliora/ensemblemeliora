@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Ensemble Name</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="/assets/main.css" />
+    <link rel="stylesheet" href="/assets/css/custom.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@200&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300&display=swap" rel="stylesheet">
+  </head>
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const header = document.querySelector(".site-header");
+  
+      
+        // Shrink on scroll
+        function checkScroll() {
+          if (window.scrollY > 50) {
+            header.classList.add("shrink");
+          } else {
+            header.classList.remove("shrink");
+          }
+        }
+  
+        window.addEventListener("scroll", checkScroll);
+        // Run it once on load
+        checkScroll();
+      
+    });
+  </script>
+  <script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const toggle = document.querySelector(".nav-toggle");
+    const menu = document.querySelector(".nav-menu");
+
+    toggle.addEventListener("click", function () {
+      menu.classList.toggle("open");
+    });
+
+    document.querySelectorAll(".nav-menu a").forEach(link => {
+      link.addEventListener("click", () => {
+        menu.classList.remove("open");
+      });
+    });
+  });
+</script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const toggles = document.querySelectorAll(".icon-toggle");
+
+    toggles.forEach((toggle) => {
+      toggle.addEventListener("click", function () {
+        const currentDropdown = toggle.nextElementSibling;
+        const allDropdowns = document.querySelectorAll(".icon-dropdown");
+
+        allDropdowns.forEach((dropdown) => {
+          if (dropdown !== currentDropdown) {
+            dropdown.classList.remove("open");
+          }
+        });
+
+        currentDropdown.classList.toggle("open");
+      });
+    });
+  });
+</script>
+
+  <body class="">
+    <header class="site-header" role="banner">
+  <div class="wrapper">
+    <a class="site-title" href="/site_test/" | relative_url }}">
+      <img src="/assets/img/logo.png" alt="Site Logo" class="site-logo">
+    </a>
+    <nav class="site-nav">
+      <div class="site-nav">
+  <button class="nav-toggle" aria-label="Toggle navigation">&#9776;</button>
+  <nav class="nav-menu">
+    <ul>
+      <li><a href="/">About Us</a></li>
+      <li><a href="//members/">Members</a></li>
+      <li><a href="//schedule/">Schedule</a></li>
+      <li><a href="//watch_listen/">Watch & Listen</a></li>
+      <li><a href="//contact/">Contact</a></li>
+    </ul>
+  </nav>
+</div>
+
+    </nav>
+  </div>
+</header>
+
+    <main class="page-content">
+      <div style="height: 3rem;"></div>
+
+<p><img src="//assets/img/band.jpeg" alt="our group!" class="full-banner" /></p>
+
+<h2 id="about-us">About Us</h2>
+
+<div class="text-image-row">
+  <div class="text-column">
+    <p>
+    <strong>Call me Ishmael.</strong> Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world. It is a way I have of driving off the <strong>spleen and regulating the circulation.</strong>
+    </p>
+    <p>
+    Whenever I find myself growing grim about the mouth; whenever it is a damp, <strong>drizzly November in my soul</strong>; whenever I find myself involuntarily pausing before coffin warehouses, and bringing up the rear of every funeral I meet; and especially whenever my hypos get such an upper hand of me, that it requires a strong moral principle to prevent me from <strong>deliberately stepping into the street</strong>, and methodically knocking people’s hats off—then, I account it high <strong>time to get to sea</strong> as soon as I can. 
+    </p>
+  </div>
+  <div class="image-column">
+    <img src="//assets/img/vln.jpeg" alt="musicians_closeup" />
+  </div>
+</div>
+
+<div class="text-image-row">
+  <div class="image-column">
+    <img src="//assets/img/duo.jpeg" alt="musicians_closeup" />
+  </div>
+  <div class="text-column">
+    <p>
+    This is my substitute for pistol and ball. With a philosophical flourish Cato throws himself upon his sword; <strong>I quietly take to the ship.</strong> There is nothing surprising in this. If they but knew it, almost all men in their degree, some time or other, cherish very nearly the same feelings towards the ocean with me.
+    </p>
+    <p>
+    There now is your insular city of the Manhattoes, belted round by wharves as Indian isles by coral reefs—<strong>commerce surrounds it with her surf</strong>. Right and left, the streets take you waterward. Its extreme downtown is the battery, where that noble mole is washed by waves, and cooled by breezes, which a few hours previous were out of sight of land. <strong>Look at the crowds of water-gazers there</strong>.
+    </p>
+  </div>
+</div>
+
+
+    </main>
+     <footer class="site-footer" style="padding: 1em 2em; font-family: 'Helvetica Neue', sans-serif; font-size: 0.9em; color: #666;">
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <div>
+      Andrew Bortvin, 2025
+    </div>
+    <div>
+      Built with Minima.
+    </div>
+  </div>
+</footer>
+  </body>
+</html>

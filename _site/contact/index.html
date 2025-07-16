@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Contact</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="/assets/main.css" />
+    <link rel="stylesheet" href="/assets/css/custom.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@200&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300&display=swap" rel="stylesheet">
+  </head>
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const header = document.querySelector(".site-header");
+  
+      
+        // Always shrink the header, and disable scroll-based resizing
+        header.classList.add("shrink");
+      
+    });
+  </script>
+  <script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const toggle = document.querySelector(".nav-toggle");
+    const menu = document.querySelector(".nav-menu");
+
+    toggle.addEventListener("click", function () {
+      menu.classList.toggle("open");
+    });
+
+    document.querySelectorAll(".nav-menu a").forEach(link => {
+      link.addEventListener("click", () => {
+        menu.classList.remove("open");
+      });
+    });
+  });
+</script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const toggles = document.querySelectorAll(".icon-toggle");
+
+    toggles.forEach((toggle) => {
+      toggle.addEventListener("click", function () {
+        const currentDropdown = toggle.nextElementSibling;
+        const allDropdowns = document.querySelectorAll(".icon-dropdown");
+
+        allDropdowns.forEach((dropdown) => {
+          if (dropdown !== currentDropdown) {
+            dropdown.classList.remove("open");
+          }
+        });
+
+        currentDropdown.classList.toggle("open");
+      });
+    });
+  });
+</script>
+
+  <body class="after-banner">
+    <header class="site-header" role="banner">
+  <div class="wrapper">
+    <a class="site-title" href="/site_test/" | relative_url }}">
+      <img src="/assets/img/logo.png" alt="Site Logo" class="site-logo">
+    </a>
+    <nav class="site-nav">
+      <div class="site-nav">
+  <button class="nav-toggle" aria-label="Toggle navigation">&#9776;</button>
+  <nav class="nav-menu">
+    <ul>
+      <li><a href="/">About Us</a></li>
+      <li><a href="//members/">Members</a></li>
+      <li><a href="//schedule/">Schedule</a></li>
+      <li><a href="//watch_listen/">Watch & Listen</a></li>
+      <li><a href="//contact/">Contact</a></li>
+    </ul>
+  </nav>
+</div>
+
+    </nav>
+  </div>
+</header>
+
+    <main class="page-content">
+      <p>Get in touch with us: email.email</p>
+
+    </main>
+     <footer class="site-footer" style="padding: 1em 2em; font-family: 'Helvetica Neue', sans-serif; font-size: 0.9em; color: #666;">
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <div>
+      Andrew Bortvin, 2025
+    </div>
+    <div>
+      Built with Minima.
+    </div>
+  </div>
+</footer>
+  </body>
+</html>
