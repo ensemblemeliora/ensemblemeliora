@@ -14,6 +14,11 @@
   width: auto;    
 }
 
+.site-logo.shrink {
+  height: 3.5em;   
+  width: auto;    
+}
+
 /* Centered text */
 .centered-text-block {
   max-width: 600px;
