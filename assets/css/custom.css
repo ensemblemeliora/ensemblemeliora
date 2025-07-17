@@ -8,19 +8,6 @@
   z-index: -1;
 }
 
-/* Site logo in header*/
-.site-logo {
-  height: 40px;
-  width: auto;
-  transition: height 0.3s ease;
-}
-
-/* Shrunken logo size */
-.site-header.shrink .site-logo {
-  height: 8px;
-  width: auto;
-}
-
 /* Centered text */
 .centered-text-block {
   max-width: 600px;
@@ -76,6 +63,7 @@
   padding-top: 0;
 }
 
+/* Big logo image */
 .site-title img {
   height: 225px;
   width: auto;
@@ -84,8 +72,9 @@
   align-items: center;
 }
 
+/* Shrunken logo image */
 .site-header.shrink .site-title img {
-  height: 70px;
+  height: 3em;
   width: auto;
   display: block;
   align-items: center;
