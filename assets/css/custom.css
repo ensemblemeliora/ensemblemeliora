@@ -10,13 +10,14 @@
 
 /* Site logo in header*/
 .site-logo {
-  height: 40px;   
-  width: auto;    
+  height: 40px;
+  width: auto;
+  transition: height 0.3s ease;
 }
 
-/* Shrunked logo*/
+/* Shrunken logo size */
 .site-header.shrink .site-logo {
-  height: 4px;
+  height: 8px;
   width: auto;
 }
 
