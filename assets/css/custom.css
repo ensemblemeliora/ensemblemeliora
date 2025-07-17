@@ -14,9 +14,10 @@
   width: auto;    
 }
 
-.site-logo.shrink {
-  height: 3px;   
-  width: auto;    
+/* Shrunked logo*/
+.site-header.shrink .site-logo {
+  height: 2em;
+  width: auto;
 }
 
 /* Centered text */
