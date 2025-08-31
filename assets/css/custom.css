@@ -309,15 +309,15 @@ strong, b {
 /* mobile */
 @media (max-width: 600px) {
   .icon-item {
-    flex: 1 1 45%;       
-    max-width: 45%;
+    flex: 1 1 30%;       
+    max-width: 30%;
   }
 }
 
 /* mobile - narrow */
 @media (max-width: 400px) {
   .icon-item {
-    flex: 1 1 100%;      
-    max-width: 100%;
+    flex: 1 1 45%;      
+    max-width: 45%;
   }
 }
