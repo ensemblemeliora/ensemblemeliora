@@ -41,7 +41,13 @@ after_banner: true
 
   <div class="icon-item">
     <button class="icon-toggle" data-text="text6">
-      <img src="{{ site.baseurl }}/assets/img/headshots/IMG_0847.jpg" alt="Icon 5" />
+      <img src="{{ site.baseurl }}/assets/img/headshots/IMG_0847.jpg" alt="Icon 6" />
+    </button>
+  </div>
+
+    <div class="icon-item">
+    <button class="icon-toggle" data-text="text7">
+      <img src="{{ site.baseurl }}/assets/img/headshots/A_W.jpg" alt="Icon 7" />
     </button>
   </div>
 </div>
@@ -66,6 +72,9 @@ after_banner: true
 </div>
 <div id="text6" class="icon-text" style="display:none;">
   <p>ASDFGHADSDFGHJKSDFGHJKLASDFGHJKLSDFGHJKL SDFGHJKSDFGHJKLSADFGHJKL SDFGHJK WERTYUIO XCVBNM SDFGHJ SDERTYHUJK SDFGHJK”</p>
+</div>
+<div id="text7" class="icon-text" style="display:none;">
+  <p>KJHGFDWYUJK XCVBN:LKJHGF WERTYUIO MNBVCXZ WERTYUIO #$%^&*()_ LKJHGFDS 34567890 LKJHGFDS DFGHJk EFGHJK ERTYUIO SDFGHJKL WERTYUIOP SDFGHJKL: WERTYUIOP @#$%^&*()_ SDFGHJKL WERTYUIOP )(*&^%$#@ OIUHYGTRE KJHGFD</p>
 </div>
 
 <script src="{{ site.baseurl }}/assets/js/members.js"></script>
