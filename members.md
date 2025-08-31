@@ -38,6 +38,12 @@ after_banner: true
       <img src="{{ site.baseurl }}/assets/img/headshots/ensemblemeliora-097.jpg" alt="Icon 5" />
     </button>
   </div>
+
+  <div class="icon-item">
+    <button class="icon-toggle" data-text="text6">
+      <img src="{{ site.baseurl }}/assets/img/headshots/IMG_0847.JPG" alt="Icon 5" />
+    </button>
+  </div>
 </div>
 
 
@@ -57,6 +63,9 @@ after_banner: true
 </div>
 <div id="text5" class="icon-text" style="display:none;">
   <p>Moving on, I at last came to a dim sort of light not far from the docks, and heard a forlorn creaking in the air; and looking up, saw a swinging sign over the door with a white painting upon it, faintly representing a tall straight jet of misty spray, and these words underneath—“The Spouter Inn:—Peter Coffin.”</p>
+</div>
+<div id="text6" class="icon-text" style="display:none;">
+  <p>ASDFGHADSDFGHJKSDFGHJKLASDFGHJKLSDFGHJKL SDFGHJKSDFGHJKLSADFGHJKL SDFGHJK WERTYUIO XCVBNM SDFGHJ SDERTYHUJK SDFGHJK”</p>
 </div>
 
 <script src="{{ site.baseurl }}/assets/js/members.js"></script>
