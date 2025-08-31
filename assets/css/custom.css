@@ -288,6 +288,13 @@ strong, b {
 }
 
 
+@media (max-width: 600px) {
+  .icon-dropdown {
+    word-wrap: break-word; 
+    white-space: normal;    
+  }
+}
+
 
 .icon-dropdown {
   opacity: 0;
