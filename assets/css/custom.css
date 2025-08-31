@@ -259,6 +259,14 @@ strong, b {
   align-items: center;
 }
 
+/* for scaling on mobile*/
+.icon-item img {
+  width: 100%;          
+  height: auto;         
+  display: block;       
+}
+
+
 .icon-toggle {
   background: none;
   border: none;
