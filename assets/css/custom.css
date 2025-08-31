@@ -309,15 +309,15 @@ strong, b {
 /* mobile */
 @media (max-width: 600px) {
   .icon-item {
-    flex: 1 1 30%;       
-    max-width: 30%;
+    flex: 1 1 calc(33.33% - 1rem);       
+    max-width: calc(33.33% - 1rem);
   }
 }
 
 /* mobile - narrow */
 @media (max-width: 400px) {
   .icon-item {
-    flex: 1 1 45%;      
-    max-width: 45%;
+    flex: 1 1 calc(45% - 1rem);      
+    max-width: calc(45% - 1rem);
   }
 }
