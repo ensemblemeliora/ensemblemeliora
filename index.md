@@ -16,7 +16,7 @@ title: Ensemble Name
     </p>
   </div>
   <div class="image-column">
-    <img src="{{ site.baseurl }}/assets/img/vln.jpeg" alt="musicians_closeup" />
+    <img src="{{ site.baseurl }}/assets/img/mei_photoshoot/ensemblemeliora-071.jpg"" alt="musicians_closeup" />
   </div>
 </div>
 
