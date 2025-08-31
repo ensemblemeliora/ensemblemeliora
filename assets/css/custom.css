@@ -207,40 +207,44 @@ strong, b {
 }
 
 /* --- MOBILE STYLES --- */
-
 /* --- MOBILE NAVIGATION & ICON GRID --- */
 @media (max-width: 768px) {
 
-  /* --- Navigation Hamburger --- */
+  /* --- Hamburger toggle visible --- */
   .nav-toggle {
     display: block;
   }
 
+  /* --- Mobile menu panel (hidden by default) --- */
   .nav-menu {
-    display: flex;                
-    flex-direction: column;
+    display: none;                /* hidden until "open" */
+    flex-direction: column;       /* stack items vertically */
     position: absolute;
     top: 100%;
-    left: 0;                      
-    right: 0;                     
-    width: auto;     
-    list-style: none;
+    left: 0;
+    right: 0;
+    width: 100%;                  /* full width */
     background-color: white;
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);
     z-index: 10000;
     box-sizing: border-box;
-    padding: 0;                    
-    margin: 0;                     
+    margin: 0;
+    padding: 0;
   }
 
+  /* --- Show menu when hamburger is toggled --- */
   .nav-menu.open {
     display: flex;
   }
 
+  /* --- Menu list --- */
   .nav-menu ul {
-    list-style: none;              
+    list-style: none;
     margin: 0;
-    padding: 0.5rem 1rem;          
+    padding: 0.5rem 1rem;
+    display: flex;
+    flex-direction: column;       /* vertical stack */
+    gap: 0.5rem;
     width: 100%;
     box-sizing: border-box;
   }
@@ -251,14 +255,14 @@ strong, b {
   }
 
   .nav-menu a {
-    writing-mode: horizontal-tb; 
+    writing-mode: horizontal-tb;
     flex-direction: initial;
-    white-space: nowrap; 
-    display: block;                
+    white-space: nowrap;
+    display: block;
     width: 100%;
-    padding: 0.5rem 0;             
-    text-align: left;        
-    overflow-wrap: anywhere;       
+    padding: 0.5rem 0;
+    text-align: left;
+    overflow-wrap: anywhere;
     text-decoration: none;
     color: black;
     font-weight: 100;
@@ -275,14 +279,14 @@ strong, b {
   .icon-grid {
     display: flex;
     flex-wrap: wrap;
-    gap: 1rem;                     /* smaller gaps for mobile */
+    gap: 1rem;
     justify-content: center;
     margin: 0 auto;
-    padding: 0 1rem;               
+    padding: 0 1rem;
   }
 
   .icon-item {
-    flex: 1 1 calc(33.33% - 1rem);       
+    flex: 1 1 calc(33.33% - 1rem);
     max-width: calc(33.33% - 1rem);
     text-align: center;
     display: flex;
@@ -295,17 +299,17 @@ strong, b {
   .icon-item img,
   .icon-toggle img {
     width: 100%;
-    max-width: 200px;   /* optional cap */
+    max-width: 200px;
     height: auto;
     display: block;
   }
 
   /* Icon dropdown text */
   .icon-dropdown {
-    width: 100%;          
-    box-sizing: border-box; 
-    padding: 0.5rem;    
-    text-align: left;     
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0.5rem;
+    text-align: left;
     opacity: 0;
     max-height: 0;
     overflow: hidden;
@@ -324,7 +328,7 @@ strong, b {
 /* --- Narrow screens (phones) --- */
 @media (max-width: 400px) {
   .icon-item {
-    flex: 1 1 calc(45% - 1rem);      
+    flex: 1 1 calc(45% - 1rem);
     max-width: calc(45% - 1rem);
   }
 }
