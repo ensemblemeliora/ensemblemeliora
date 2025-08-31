@@ -259,22 +259,6 @@ strong, b {
   align-items: center;
 }
 
-/* mobile */
-@media (max-width: 600px) {
-  .icon-item {
-    flex: 1 1 45%;       
-    max-width: 45%;
-  }
-}
-
-/* mobile - narrow */
-@media (max-width: 400px) {
-  .icon-item {
-    flex: 1 1 100%;      
-    max-width: 100%;
-  }
-}
-
 .icon-toggle {
   background: none;
   border: none;
@@ -314,14 +298,18 @@ strong, b {
   margin-top: 1rem;
 }
 
-/* Responsive tweaks */
+/* mobile */
 @media (max-width: 600px) {
   .icon-item {
-    flex: 1 1 100%;
+    flex: 1 1 45%;       
+    max-width: 45%;
   }
+}
 
-  .icon-toggle img {
-    width: 60px;
-    height: 60px;
+/* mobile - narrow */
+@media (max-width: 400px) {
+  .icon-item {
+    flex: 1 1 100%;      
+    max-width: 100%;
   }
 }
