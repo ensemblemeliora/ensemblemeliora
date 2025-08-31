@@ -22,7 +22,7 @@ title: Ensemble Name
 
 <div class="text-image-row">
   <div class="image-column">
-    <img src="{{ site.baseurl }}/assets/img/duo.jpeg" alt="musicians_closeup" />
+    <img src="{{ site.baseurl }}/assets/img/mei_photoshoot/ensemblemeliora-091.jpg" alt="upper strings" />
   </div>
   <div class="text-column">
     <p>
