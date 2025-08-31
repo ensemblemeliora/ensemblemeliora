@@ -41,7 +41,7 @@ after_banner: true
 
   <div class="icon-item">
     <button class="icon-toggle" data-text="text6">
-      <img src="{{ site.baseurl }}/assets/img/headshots/IMG_0847.JPG" alt="Icon 5" />
+      <img src="{{ site.baseurl }}/assets/img/headshots/IMG_0847.jpg" alt="Icon 5" />
     </button>
   </div>
 </div>
