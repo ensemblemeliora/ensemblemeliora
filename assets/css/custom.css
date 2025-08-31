@@ -250,11 +250,11 @@ strong, b {
   }
 
   .nav-menu a {
+    white-space: nowrap; 
     display: block;                
     width: 100%;
     padding: 0.5rem 0;             
-    text-align: left;
-    white-space: normal;           
+    text-align: left;        
     overflow-wrap: anywhere;       
     text-decoration: none;
     color: black;
