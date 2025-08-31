@@ -290,16 +290,11 @@ strong, b {
   transform: scale(1.1);
 }
 
-
-@media (max-width: 600px) {
-  .icon-dropdown {
-    word-wrap: break-word; 
-    white-space: normal;    
-  }
-}
-
-
 .icon-dropdown {
+  width: 100%;          
+  box-sizing: border-box; 
+  padding: 0.5rem;    
+  text-align: left;     
   opacity: 0;
   max-height: 0;
   overflow: hidden;
