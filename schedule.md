@@ -19,18 +19,17 @@ after_banner: true
 
 <div style="text-align: center; max-width: 600px; margin: 2rem auto; font-family: 'Dosis', sans-serif;">
   <p>
-    <strong>Fantasia</strong>:  <br>
-    PLACEHOLDER <br>
-    PLACEHOLDER <br>
-    PLACEHOLDER <br>
-    Boston Early Music Festival, Fringe Concert  <br>
-    Church of the Covenant - 67 Newbury St, Boston MA <br>
-    Tuesday, June 10, 2025 <br>  	
+    <strong>Fantasia</strong>: an Evening of 17th-Century Chamber Music <br>
+    Evangelical Lutheran Church of the Holy Trinity 3.W 65th St., New York, NY <br>
+    Saturday, August 24, 2025 <br>
+    <br>
+    St. John's in the Village Church - 224 Waverly Pl. New York, NY <br>
+    Saturday, August 23, 2025 <br>
   </p>
   <p>
-    <strong>Breaking the Mold</strong>: a potpourri of unusual baroque chamber music <br>
+    <strong>Breaking the Mold</strong>: a Potpourri of Unusual Baroque chamber Music <br>
     Boston Early Music Festival, Fringe Concert  <br>
-    Church of the Covenant - 67 Newbury St, Boston MA <br>
+    Church of the Covenant - 67 Newbury St, Boston, MA <br>
     Tuesday, June 10, 2025 <br>  	
   </p>
 </div>
