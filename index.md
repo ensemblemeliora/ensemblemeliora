@@ -5,7 +5,7 @@ title: Ensemble Name
 
 <div style="height: 15rem;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/EM_Blue_Photo_Collage_bigger.jpg" alt="our group!" class="full-banner">
+<img src="{{ site.baseurl }}/assets/img/mei_photoshoot/ensemblemeliora-087.jpg" alt="our group!" class="full-banner">
 
 ## About Us
 
