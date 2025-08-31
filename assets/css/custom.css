@@ -245,6 +245,9 @@ strong, b {
   gap: 2rem;
   justify-content: center;
   margin-top: 2rem;
+  margin: 0 auto; 
+  padding: 0 2rem;           
+  /*max-width: 1200px;*/                   
 }
 
 .icon-item {
