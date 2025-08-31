@@ -1,3 +1,10 @@
+/*Wide text for members page*/
+.wide-text {
+  max-width: 900px;   
+  margin: 2rem auto;
+  padding: 1rem;
+}
+
 /* Fullscreen image */
 .full-banner {
   width: 100vw;
