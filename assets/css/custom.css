@@ -259,6 +259,22 @@ strong, b {
   align-items: center;
 }
 
+/* mobile */
+@media (max-width: 600px) {
+  .icon-item {
+    flex: 1 1 45%;       
+    max-width: 45%;
+  }
+}
+
+/* mobile - narrow */
+@media (max-width: 400px) {
+  .icon-item {
+    flex: 1 1 100%;      
+    max-width: 100%;
+  }
+}
+
 .icon-toggle {
   background: none;
   border: none;
