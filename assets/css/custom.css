@@ -250,7 +250,8 @@ strong, b {
   }
 
   .nav-menu a {
-    white-space: nowrap; 
+    flex-direction: initial;
+    white-space: normal; 
     display: block;                
     width: 100%;
     padding: 0.5rem 0;             
