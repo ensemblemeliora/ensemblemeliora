@@ -3,6 +3,7 @@
   max-width: 900px;   
   margin: 2rem auto;
   padding: 1rem;
+  font-size: 1rem;
 }
 
 /* Fullscreen image */
@@ -21,7 +22,7 @@
   margin: 2rem auto;
   text-align: center;
   font-family: 'Cormorant Garamond', serif;
-  font-size: 1rem;
+  font-size: 1.5rem;
   line-height: 1.6;
   color: #333;
 }
