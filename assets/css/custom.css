@@ -232,7 +232,7 @@ strong, b {
   position: relative;
 }
 
-.icon-text p {
+div.icon-text p {
   font-size: 1rem;
 }
 
