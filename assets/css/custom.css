@@ -228,6 +228,9 @@ strong, b {
   position: relative;
 }
 
+.icon-text {
+  font-size: 1rem;
+}
 
 
 /* for scaling on mobile*/
