@@ -10,13 +10,13 @@ after_banner: true
 
 <div class="icon-grid">
   <div class="icon-item">
-    <button class="icon-toggle" data-text="text1">
-      <img src="{{ site.baseurl }}/assets/img/headshots/ensemblemeliora-060.jpg" alt="emma" />
+    <button class="icon-toggle" data-text="emma">
+      <img src="{{ site.baseurl }}/assets/img/headshots/ensemblemeliora-060.jpg" alt="Icon 1" />
     </button>
   </div>
 
   <div class="icon-item">
-    <button class="icon-toggle" data-text="text2">
+    <button class="icon-toggle" data-text="andrew">
       <img src="{{ site.baseurl }}/assets/img/headshots/ensemblemeliora-089.jpg" alt="Icon 2" />
     </button>
   </div>
@@ -34,7 +34,7 @@ after_banner: true
   </div>
 
   <div class="icon-item">
-    <button class="icon-toggle" data-text="text5">
+    <button class="icon-toggle" data-text="grace">
       <img src="{{ site.baseurl }}/assets/img/headshots/ensemblemeliora-097.jpg" alt="Icon 5" />
     </button>
   </div>
@@ -61,8 +61,8 @@ after_banner: true
 <p>While at Eastman, Ms. Milian developed a passion for baroque music which she continued to pursue at UNT. She has been featured as a soloist with the UNT Baroque Orchestra, and in the summer of 2024, she toured Brazil with the UNT Fantasmi Ensemble. She has also been a member of the Dallas Bach Society orchestra and played on their recently released album recording of Handel’s Messiah, as well as the Saint John’s Passion album which will be released soon. She currently performs on a violin by Nicol Gusetto, Cremona, 1728, generously on loan from the Juilliard School. </p>
 
 </div>
-<div id="text2" class="icon-text" style="display:none;">
-  <p>“Nantucket itself,” said Mr. Webster, “is a very striking and peculiar portion of the National interest. There is a population of eight or nine thousand persons living here in the sea, adding largely every year to the National wealth by the boldest and most persevering industry.” —Report of Daniel Webster’s Speech in the U. S. Senate, on the application for the Erection of a Breakwater at Nantucket. 1828.</p>
+<div id="andrew" class="icon-text" style="display:none;">
+  <p><strong>Andrew Bortvin</strong> is a versatile keyboardist based in Baltimore and NYC. His primary teachers include Peter Sykes, Richard Stone, and Adam Pearl. He has performed in festivals and workshops such as the San Francisco Early Music Society’s Baroque Workshop, St. Andrew’s Baroque Performance Course, the Oberlin Baroque Performance Institute, and Amherst Early Music Academy. Andrew performs extensively throughout the east coast with the Baltimore Baroque Band, Peabody Renaissance Ensemble, and in opera and chamber music ensembles. Outside of early music, Andrew is earning his PhD at Johns Hopkins in computational biology.</p>
 </div>
 <div id="rachel" class="icon-text" style="display:none;">
   <p>With equal passions for early and new music, <strong>Rachel Smith</strong> is a freelance musician, a substitute teacher at Chicago Public Schools, an arts administrator and a full-time hustler based in Chicago and Rochester, NY.  She appears regularly as a violist with the Camerata Chicago orchestra and a baroque violinist with Martin David’s Bella Voce Sinfonia. Most recently, she joined the Concert Opera of Greater Chicago for their first opera with a full orchestral ensemble. She is the director of Ensemble Meliora, which recently performed their debut project in June at the Boston Early Music Festival’s Fringe Concert Series.  Rachel holds a BM in viola performance and a Certificate of Achievement in Performance Practice from the Eastman School of Music, and is a recent alum of the Tafelmusik Baroque Summer Institute in Toronto.  She was a member of Eastman’s Musica Nova ensemble, where she worked with conductors Georgia Mills, Luke Poeppel, and Brad Lubman.  She is also a member of the 2024 Bang on a Can Summer Festival fellowship cohort, where she worked alongside musicians and composers such as David Lang, Sahara von Hattenberger, Jack Beal, Vashawn Aurora, Ruben Høgh, and many more.  Rachel enjoys performing both on violin and viola in many different styles, and loves the collaboration between colleagues for old music, new music, and everything in between! She performs on a late 18th-century German violin, labeled Galini. </p>
@@ -70,8 +70,9 @@ after_banner: true
 <div id="james" class="icon-text" style="display:none;">
   <p><strong>James Marshall</strong> joined the viola section of the Rochester Philharmonic Orchestra in January 2023, and is currently pursuing a Doctor of Musical Arts degree in Performance and Literature at the Eastman School of Music, with a Certificate of Advanced Achievement in Early Music. Although primarily a violist, James is also an avid performer on Baroque violin and viola d’amore, and was the leader of Eastman’s Collegium Musicum ensemble for three years. James has received primary early music studies from Eastman Professors Paul O’Dette, Christel Thielmann, and Roger Freitas, as well as additional studies with Cynthia Roberts and Julie Andrijeski. He has performed in Rochester with Publick Musick and Pegasus Early Music, and at recent festivals including the American Bach Soloists Academy, Boston Early Music Festival Fringe, Berwick Academy (Oregon Bach Festival), and Baroque Performance Institute (Oberlin). For today’s program, James is playing a violin by Joseph Rausch, c. 1770, and a Jay Haide viola, 2017, after Maggini.</p>
 </div>
-<div id="text5" class="icon-text" style="display:none;">
-  <p>Moving on, I at last came to a dim sort of light not far from the docks, and heard a forlorn creaking in the air; and looking up, saw a swinging sign over the door with a white painting upon it, faintly representing a tall straight jet of misty spray, and these words underneath—“The Spouter Inn:—Peter Coffin.”</p>
+<div id="grace" class="icon-text" style="display:none;">
+  <p><strong>Grace Mockus</strong> is a graduate student at The Juilliard School, where she is equally at home in modern and historical performance practices. She holds a BM in Cello Performance, with a minor in Performing Arts Management and Entrepreneurship, from the University of Michigan. Grace has performed and studied at numerous festivals, including Orford Musique, the Oregon Bach Festival, Bowdoin International Music Festival, American Bach Soloists Academy, the Smithsonian Academy, and in fellowships with the Chautauqua Festival Orchestra and ARTEK early music ensemble. Grace has also performed with ensembles such as the Detroit Symphony Orchestra, the Juilliard Orchestra, and the Chicago Philharmonic. She is a core member of the West Michigan Symphony and Ensemble Meliora. Grace performs on an anonymous English cello of the Kennedy School, ca. 1800, labeled “Jacobus Stainer”, and a seven-string bass viol by Linda Shortridge, 1979. 
+</p>
 </div>
 <div id="text6" class="icon-text" style="display:none;">
   <p>ASDFGHADSDFGHJKSDFGHJKLASDFGHJKLSDFGHJKL SDFGHJKSDFGHJKLSADFGHJKL SDFGHJK WERTYUIO XCVBNM SDFGHJ SDERTYHUJK SDFGHJK”</p>
