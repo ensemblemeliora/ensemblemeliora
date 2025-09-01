@@ -1,6 +1,6 @@
 ---
 layout: fullscreen
-title: Ensemble Name
+title: Ensemble Meliora
 ---
 
 <div style="height: 15rem;"></div>
