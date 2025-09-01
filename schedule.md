@@ -22,11 +22,11 @@ after_banner: true
     <strong>Fantasia</strong>: an Evening of 17th-Century Chamber Music <br>
     Evangelical Lutheran Church of the Holy Trinity 3.W 65th St., New York, NY <br>
     Saturday, August 24, 2025 <br>
-    &#9830; <br>
+    &#10006;<br>
     <br>
     St. John's in the Village Church - 224 Waverly Pl. New York, NY <br>
     Saturday, August 23, 2025 <br>
-    &#9830; <br>
+    &#10006; <br>
   </p>
   <p>
     <strong>Breaking the Mold</strong>: a Potpourri of Unusual Baroque chamber Music <br>
