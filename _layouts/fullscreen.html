@@ -55,6 +55,14 @@
 document.addEventListener("DOMContentLoaded", function () {
   const toggles = document.querySelectorAll(".icon-toggle");
 
+  // Open first icon by default
+  if (toggles.length > 0) {
+    const firstToggle = toggles[0];
+    const textId = firstToggle.dataset.text;
+    const firstTextBlock = document.getElementById(textId);
+    firstTextBlock.classList.toggle("open");
+  }
+
   toggles.forEach((toggle) => {
     toggle.addEventListener("click", function () {
       const textId = toggle.dataset.text;
@@ -71,14 +79,6 @@ document.addEventListener("DOMContentLoaded", function () {
       currentDropdown.classList.toggle("open");
     });
   });
-
-  // Open first icon by default
-  if (toggles.length > 0) {
-    const firstToggle = toggles[0];
-    const textId = firstToggle.dataset.text;
-    const firstTextBlock = document.getElementById(textId);
-    firstTextBlock.classList.toggle("open");
-  }
 });
 </script>
 
