@@ -69,12 +69,14 @@
         currentDropdown.classList.toggle("open");
       });
     });
-  });
-   if (toggles.length > 0) {
+
+    /* open first item on default*/
+    if (toggles.length > 0) {
       const firstToggle = toggles[0];
       const firstDropdown = firstToggle.nextElementSibling;
       firstDropdown.classList.add("open");
     }
+  });
 </script>
 
   <body class="{% if page.after_banner %}after-banner{% endif %}">
