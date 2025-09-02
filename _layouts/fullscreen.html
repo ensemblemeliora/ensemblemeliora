@@ -12,12 +12,6 @@
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;600;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300&display=swap" rel="stylesheet">
   </head>
-  <body class="{% if page.after_banner %}after-banner{% endif %}">
-    {% include header.html %}
-    <main class="page-content">
-      {{ content }}
-    </main>
-     {% include footer.html %}
   <script>
     document.addEventListener("DOMContentLoaded", function () {
       const header = document.querySelector(".site-header");
@@ -58,30 +52,31 @@
   });
 </script>
 <script>
-document.addEventListener("DOMContentLoaded", function () {
-  const toggles = document.querySelectorAll(".icon-toggle");
+  document.addEventListener("DOMContentLoaded", function () {
+    const toggles = document.querySelectorAll(".icon-toggle");
 
-  toggles.forEach((toggle) => {
-    const textId = toggle.dataset.text;
-    const textBlock = document.getElementById(textId);
+    toggles.forEach((toggle) => {
+      toggle.addEventListener("click", function () {
+        const currentDropdown = toggle.nextElementSibling;
+        const allDropdowns = document.querySelectorAll(".icon-dropdown");
 
-    toggle.addEventListener("click", function () {
-      // Hide all other text blocks
-      document.querySelectorAll(".icon-text").forEach(block => {
-        if (block !== textBlock) {
-          block.classList.remove("open");
-        }
+        allDropdowns.forEach((dropdown) => {
+          if (dropdown !== currentDropdown) {
+            dropdown.classList.remove("open");
+          }
+        });
+
+        currentDropdown.classList.toggle("open");
       });
-
-      // Toggle current block
-      textBlock.classList.toggle("open");
     });
   });
-
-
-});
 </script>
 
-
+  <body class="{% if page.after_banner %}after-banner{% endif %}">
+    {% include header.html %}
+    <main class="page-content">
+      {{ content }}
+    </main>
+     {% include footer.html %}
   </body>
 </html>
