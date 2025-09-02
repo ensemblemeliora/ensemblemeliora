@@ -66,29 +66,25 @@ document.addEventListener("DOMContentLoaded", function () {
     const textBlock = document.getElementById(textId);
 
     toggle.addEventListener("click", function () {
-      // Hide all text blocks
+      // Hide all other text blocks
       document.querySelectorAll(".icon-text").forEach(block => {
         if (block !== textBlock) {
-          block.style.display = "none";
+          block.classList.remove("open");
         }
       });
 
       // Toggle current block
-      if (textBlock.style.display === "block") {
-        textBlock.style.display = "none";
-      } else {
-        textBlock.style.display = "block";
-      }
+      textBlock.classList.toggle("open");
     });
   });
 
-  /* open first item default*/
+  // Open first text block by default
   if (toggles.length > 0) {
     const firstToggle = toggles[0];
     const firstTextId = firstToggle.dataset.text;
     const firstTextBlock = document.getElementById(firstTextId);
     if (firstTextBlock) {
-      firstTextBlock.style.display = "block";
+      firstTextBlock.classList.add("open");
     }
   }
 });
