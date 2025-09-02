@@ -58,31 +58,40 @@
   });
 </script>
 <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const toggles = document.querySelectorAll(".icon-toggle");
+document.addEventListener("DOMContentLoaded", function () {
+  const toggles = document.querySelectorAll(".icon-toggle");
 
-    toggles.forEach((toggle) => {
-      toggle.addEventListener("click", function () {
-        const currentDropdown = toggle.nextElementSibling;
-        const allDropdowns = document.querySelectorAll(".icon-dropdown");
+  toggles.forEach((toggle) => {
+    const textId = toggle.dataset.text;
+    const textBlock = document.getElementById(textId);
 
-        allDropdowns.forEach((dropdown) => {
-          if (dropdown !== currentDropdown) {
-            dropdown.classList.remove("open");
-          }
-        });
-
-        currentDropdown.classList.toggle("open");
+    toggle.addEventListener("click", function () {
+      // Hide all text blocks
+      document.querySelectorAll(".icon-text").forEach(block => {
+        if (block !== textBlock) {
+          block.style.display = "none";
+        }
       });
-    });
 
-    /* open first item on default*/
-    if (toggles.length > 0) {
-      const firstToggle = toggles[0];
-      const firstDropdown = firstToggle.nextElementSibling;
-      firstDropdown.classList.add("open");
-    }
+      // Toggle current block
+      if (textBlock.style.display === "block") {
+        textBlock.style.display = "none";
+      } else {
+        textBlock.style.display = "block";
+      }
+    });
   });
+
+  /* open first item default*/
+  if (toggles.length > 0) {
+    const firstToggle = toggles[0];
+    const firstTextId = firstToggle.dataset.text;
+    const firstTextBlock = document.getElementById(firstTextId);
+    if (firstTextBlock) {
+      firstTextBlock.style.display = "block";
+    }
+  }
+});
 </script>
 
 
