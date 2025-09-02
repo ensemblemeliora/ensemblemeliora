@@ -52,31 +52,34 @@
   });
 </script>
 <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const toggles = document.querySelectorAll(".icon-toggle");
+document.addEventListener("DOMContentLoaded", function () {
+  const toggles = document.querySelectorAll(".icon-toggle");
 
-    toggles.forEach((toggle) => {
-      toggle.addEventListener("click", function () {
-        const currentDropdown = toggle.nextElementSibling;
-        const allDropdowns = document.querySelectorAll(".icon-dropdown");
+  toggles.forEach((toggle) => {
+    toggle.addEventListener("click", function () {
+      const textId = toggle.dataset.text;
+      const currentDropdown = document.getElementById(textId);
 
-        allDropdowns.forEach((dropdown) => {
-          if (dropdown !== currentDropdown) {
-            dropdown.classList.remove("open");
-          }
-        });
-
-        currentDropdown.classList.toggle("open");
+      // Hide all other text blocks
+      document.querySelectorAll(".icon-text").forEach((block) => {
+        if (block !== currentDropdown) {
+          block.classList.remove("open");
+        }
       });
+
+      // Toggle current block
+      currentDropdown.classList.toggle("open");
     });
   });
 
+  // Open first icon by default
   if (toggles.length > 0) {
-      const firstToggle = toggles[0];
-      const textId = firstToggle.dataset.text;      
-      const firstTextBlock = document.getElementById(textId); 
-      firstTextBlock.classList.add("open");
-    }
+    const firstToggle = toggles[0];
+    const textId = firstToggle.dataset.text;
+    const firstTextBlock = document.getElementById(textId);
+    firstTextBlock.classList.add("open");
+  }
+});
 </script>
 
   <body class="{% if page.after_banner %}after-banner{% endif %}">
