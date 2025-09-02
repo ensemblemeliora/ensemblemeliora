@@ -26,14 +26,16 @@ title: Ensemble Meliora
   </div>
   <div class="text-column">
     <p>
-Recent concerts have included the ensemble’s <strong>Boston Early Music Festival</strong>strong> fringe concert debut, and its very first tour in <strong>New York City</strong>strong>. These programs included <strong>lesser-known gems</strong>strong> by Albicastro, Purcell, Buxtehude, Castello, Marini, and the modern premiere of an anonymous work from the Rost Codex. 
+Recent concerts have included the ensemble’s <strong>Boston Early Music Festival</strong> fringe concert debut, and its very first tour in <strong>New York City</strong>. These programs included <strong>lesser-known gems</strong> by Albicastro, Purcell, Buxtehude, Castello, Marini, and the modern premiere of an anonymous work from the Rost Codex. 
     </p>
     <p>
-  Ensemble Meliora is bringing rarely performed gems of the Baroque repertoire to life, spotlighting the <strong>quirky</strong>, <strong>bold</strong>, and <strong>beautiful</strong>strong> corners of early music that deserve a broader audience. With every concert, we hope to challenge expectations and celebrate the expressive power of <strong>period performance</strong>.
+  Ensemble Meliora is bringing rarely performed gems of the Baroque repertoire to life, spotlighting the <strong>quirky</strong>, <strong>bold</strong>, and <strong>beautiful</strong> corners of early music that deserve a broader audience. With every concert, we hope to challenge expectations and celebrate the expressive power of <strong>period performance</strong>.
     </p>
   </div>
 </div>
+<br>
+<br>
+<p style="text-align: center;">Join us for fresh takes on the <strong>classics</strong> and bold forays into the <strong>new</strong>.</p>
 
-<p>Join us for fresh takes on the <strong>classics</strong> and bold forays into the <strong>new</strong>.</p>
 
 
