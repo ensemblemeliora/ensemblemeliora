@@ -53,7 +53,7 @@ after_banner: true
 </div>
 
 
-<div id="text-display" class="wide-text"></div>
+
 
 <div id="emma" class="icon-text">
   <p>Originally from Brooklyn, NY, <strong>Emma Milian</strong> holds a Master’s degree in Violin Performance from the University of North Texas College of Music and is a graduate of the Eastman School of Music with a Bachelor’s degree in Violin Performance, a certificate in Arts Leadership, and a certificate in Performance Practice. Ms. Milian looks forward to pursuing her Master’s degree in Baroque Violin Performance with the Juilliard Historical Performance program starting in Fall 2025.</p>
