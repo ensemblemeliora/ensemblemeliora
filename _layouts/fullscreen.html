@@ -60,7 +60,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const firstToggle = toggles[0];
     const textId = firstToggle.dataset.text;
     const firstTextBlock = document.getElementById(textId);
-    firstTextBlock.classList.toggle("open");
+    firstTextBlock.classList.add("open");
   }
 
   toggles.forEach((toggle) => {
