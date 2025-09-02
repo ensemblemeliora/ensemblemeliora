@@ -9,15 +9,6 @@
   font-size: 1.3rem;
 }
 
-.icon-text {
-  display: none;
-}
-
-.icon-text.open {
-  display: block;
-}
-
-
 /* Fullscreen image */
 .full-banner {
   width: 100vw;
