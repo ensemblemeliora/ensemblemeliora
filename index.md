@@ -12,7 +12,7 @@ title: Ensemble Meliora
 <div class="text-image-row">
   <div class="text-column">
     <p>
-    Ensemble Meliora is an early music group based in the East Coast. With members hailing from New York, Chicago, Baltimore, and abroad, Ensemble Meliora boasts a roster with some of today's most in-demand young performers. Meeting in undergraduate practice rooms, late night viol consort rehearsals, and summer festivals, we've put together a band of truly wonderful and inquisitive musicians and people. We hope you join us in our mission to become <em>ever better</em> through our exploration of the past.
+    <strong>Ensemble Meliora</strong> is an early music group based in the East Coast. With members hailing from New York, Chicago, Baltimore, and abroad, Ensemble Meliora boasts a roster with some of today's most in-demand young performers. Meeting in undergraduate practice rooms, late night viol consort rehearsals, and summer festivals, we've put together a band of truly wonderful and inquisitive musicians and people. We hope you join us in our mission to become <em>ever better</em> through our exploration of the past.
     </p>
   </div>
   <div class="image-column">
@@ -26,13 +26,14 @@ title: Ensemble Meliora
   </div>
   <div class="text-column">
     <p>
-    This is my substitute for pistol and ball. With a philosophical flourish Cato throws himself upon his sword; <strong>I quietly take to the ship.</strong> There is nothing surprising in this. If they but knew it, almost all men in their degree, some time or other, cherish very nearly the same feelings towards the ocean with me.
+Recent concerts have included the ensemble’s <strong>Boston Early Music Festival</strong>strong> fringe concert debut, and its very first tour in <strong>New York City</strong>strong>. These programs included <strong>lesser-known gems</strong>strong> by Albicastro, Purcell, Buxtehude, Castello, Marini, and the modern premiere of an anonymous work from the Rost Codex. 
     </p>
     <p>
-    There now is your insular city of the Manhattoes, belted round by wharves as Indian isles by coral reefs—<strong>commerce surrounds it with her surf</strong>. Right and left, the streets take you waterward. Its extreme downtown is the battery, where that noble mole is washed by waves, and cooled by breezes, which a few hours previous were out of sight of land. <strong>Look at the crowds of water-gazers there</strong>.
+  Ensemble Meliora is bringing rarely performed gems of the Baroque repertoire to life, spotlighting the <strong>quirky</strong>, <strong>bold</strong>, and <strong>beautiful</strong>strong> corners of early music that deserve a broader audience. With every concert, we hope to challenge expectations and celebrate the expressive power of <strong>period performance</strong>.
     </p>
   </div>
 </div>
 
+<p>Join us for fresh takes on the <strong>classics</strong> and bold forays into the <strong>new</strong>.</p>
 
 
