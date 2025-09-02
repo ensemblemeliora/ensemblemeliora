@@ -35,6 +35,7 @@ Recent concerts have included the ensemble’s <strong>Boston Early Music Festiv
 </div>
 <br>
 <p style="text-align: center;">Join us for fresh takes on the <strong>classics</strong> and bold forays into the <strong>new</strong>.</p>
+<br>
 
 
 
