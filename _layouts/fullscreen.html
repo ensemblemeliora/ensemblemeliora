@@ -60,6 +60,11 @@ document.addEventListener("DOMContentLoaded", function () {
     const firstToggle = toggles[0];
     const textId = firstToggle.dataset.text;
     const firstTextBlock = document.getElementById(textId);
+    document.querySelectorAll(".icon-text").forEach((block) => {
+      if (block !== currentDropdown) {
+        block.classList.remove("open");
+      }
+    });
     firstTextBlock.classList.add("open");
   }
 
