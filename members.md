@@ -40,7 +40,7 @@ after_banner: true
   </div>
 
   <div class="icon-item">
-    <button class="icon-toggle" data-text="text6">
+    <button class="icon-toggle" data-text="juliana">
       <img src="{{ site.baseurl }}/assets/img/headshots/IMG_0847.jpg" alt="Icon 6" />
     </button>
   </div>
@@ -74,8 +74,9 @@ after_banner: true
   <p><strong>Grace Mockus</strong> is a graduate student at The Juilliard School, where she is equally at home in modern and historical performance practices. She holds a BM in Cello Performance, with a minor in Performing Arts Management and Entrepreneurship, from the University of Michigan. Grace has performed and studied at numerous festivals, including Orford Musique, the Oregon Bach Festival, Bowdoin International Music Festival, American Bach Soloists Academy, the Smithsonian Academy, and in fellowships with the Chautauqua Festival Orchestra and ARTEK early music ensemble. Grace has also performed with ensembles such as the Detroit Symphony Orchestra, the Juilliard Orchestra, and the Chicago Philharmonic. She is a core member of the West Michigan Symphony and Ensemble Meliora. Grace performs on an anonymous English cello of the Kennedy School, ca. 1800, labeled “Jacobus Stainer”, and a seven-string bass viol by Linda Shortridge, 1979. 
 </p>
 </div>
-<div id="text6" class="icon-text" style="display:none;">
-  <p>ASDFGHADSDFGHJKSDFGHJKLASDFGHJKLSDFGHJKL SDFGHJKSDFGHJKLSADFGHJKL SDFGHJK WERTYUIO XCVBNM SDFGHJ SDERTYHUJK SDFGHJK”</p>
+<div id="juliana" class="icon-text" style="display:none;">
+  <p>Hailed for her “natural musicianship, boundless musicality, and genuine joy for music” (EMW, ’25), Juliana Kauls-Kilcoyne is a Russian-American violist based in New York City. She earned both her Bachelor’s and Master’s degrees in viola performance from the Eastman School of Music, where she studied with Grammy Award-winning violist Masumi Per Rostad. While at Eastman, she also completed an Advanced Performer’s Certificate in Early Music after discovering her true passion: historical performance. She studied under the mentorship of Paul O’Dette, Christel Thielmann, and Brandon Chui (Tafelmusik).</p>
+<p>Juliana has appeared with the Minnesota Orchestra, String Orchestra of Brooklyn, Ver Sacrum Consort, and a variety of NYC opera companies and early music ensembles. At Eastman, she served as principal violist of Collegium Musicum and performed with the Eastman Philharmonia. In 2023, she was featured in the Boston Early Music Festival Fringe Concerts and selected for the American Bach Soloists Academy, Tafelmusik Baroque Summer Institute, and Oberlin Baroque Performance Institute. Performance highlights include world premieres of works by Anthony Davis and Libby Larsen, and masterclasses with Yo-Yo Ma, Kenneth Slowik, Elizabeth Blumenstock, Jeffrey Irvine, and Matthew Lipman.</p>
 </div>
 <div id="text7" class="icon-text" style="display:none;">
   <p>KJHGFDWYUJK XCVBN:LKJHGF WERTYUIO MNBVCXZ WERTYUIO #$%^&*()_ LKJHGFDS 34567890 LKJHGFDS DFGHJk EFGHJK ERTYUIO SDFGHJKL WERTYUIOP SDFGHJKL: WERTYUIOP @#$%^&*()_ SDFGHJKL WERTYUIOP )(*&^%$#@ OIUHYGTRE KJHGFD</p>
