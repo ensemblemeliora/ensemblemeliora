@@ -55,17 +55,9 @@
 document.addEventListener("DOMContentLoaded", function () {
   const toggles = document.querySelectorAll(".icon-toggle");
 
-  // Open first icon by default
+  // click on first item on page open
   if (toggles.length > 0) {
-    const firstToggle = toggles[0];
-    const textId = firstToggle.dataset.text;
-    const firstTextBlock = document.getElementById(textId);
-    document.querySelectorAll(".icon-text").forEach((block) => {
-      if (block !== currentDropdown) {
-        block.classList.remove("open");
-      }
-    });
-    firstTextBlock.classList.add("open");
+    toggles[0].click(); 
   }
 
   toggles.forEach((toggle) => {
