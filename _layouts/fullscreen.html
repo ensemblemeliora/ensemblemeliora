@@ -70,6 +70,13 @@
       });
     });
   });
+
+  if (toggles.length > 0) {
+      const firstToggle = toggles[0];
+      const textId = firstToggle.dataset.text;      
+      const firstTextBlock = document.getElementById(textId); 
+      firstTextBlock.classList.add("open");
+    }
 </script>
 
   <body class="{% if page.after_banner %}after-banner{% endif %}">
