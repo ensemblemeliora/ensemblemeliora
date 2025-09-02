@@ -12,6 +12,12 @@
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;600;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300&display=swap" rel="stylesheet">
   </head>
+  <body class="{% if page.after_banner %}after-banner{% endif %}">
+    {% include header.html %}
+    <main class="page-content">
+      {{ content }}
+    </main>
+     {% include footer.html %}
   <script>
     document.addEventListener("DOMContentLoaded", function () {
       const header = document.querySelector(".site-header");
@@ -79,11 +85,6 @@
   });
 </script>
 
-  <body class="{% if page.after_banner %}after-banner{% endif %}">
-    {% include header.html %}
-    <main class="page-content">
-      {{ content }}
-    </main>
-     {% include footer.html %}
+
   </body>
 </html>
