@@ -77,7 +77,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const firstToggle = toggles[0];
     const textId = firstToggle.dataset.text;
     const firstTextBlock = document.getElementById(textId);
-    firstTextBlock.classList.add("open");
+    firstTextBlock.classList.toggle("open");
   }
 });
 </script>
