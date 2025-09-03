@@ -333,13 +333,14 @@ div.icon-text p {
     top: 100%;
     left: 0;
     right: 0;
-    width: 100%;                  /* full width */
     background-color: white;
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);
     z-index: 10000;
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    width: 200%;   /* or whatever you need */
+    margin-left: -2rem; /* shift back to align left */
   }
 
   /* --- Show menu when hamburger is toggled --- */
