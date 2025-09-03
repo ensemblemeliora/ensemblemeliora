@@ -340,7 +340,7 @@ div.icon-text p {
     margin: 0;
     padding: 0;
     width: 400%;   /* or whatever you need */
-    margin-left: -2rem; /* shift back to align left */
+    margin-left: -4rem; /* shift back to align left */
   }
 
   /* --- Show menu when hamburger is toggled --- */
