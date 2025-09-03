@@ -339,7 +339,7 @@ div.icon-text p {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    width: 200%;   /* or whatever you need */
+    width: 400%;   /* or whatever you need */
     margin-left: -2rem; /* shift back to align left */
   }
 
