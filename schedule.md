@@ -32,7 +32,8 @@ after_banner: true
     <strong>Breaking the Mold</strong>: a Potpourri of Unusual Baroque Chamber Music <br>
     Boston Early Music Festival, Fringe Concert  <br>
     Church of the Covenant - 67 Newbury St, Boston, MA <br>
-    Tuesday, June 10, 2025 <br>  	
+    Tuesday, June 10, 2025 <br>    
+    <a href="https://drive.google.com/file/d/16TCgLCXEd9ZRXFPTk6t5FfU_FxQX5Kks/view?usp=sharing/">Program Booklet</a><br>
   </p>
 </div>
 
