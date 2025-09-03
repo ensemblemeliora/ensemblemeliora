@@ -10,14 +10,14 @@ after_banner: true
 
 ### Upcoming
 
-<div style="text-align: center; max-width: 600px; margin: 2rem auto; font-family: 'Dosis', sans-serif;">
+<div style="text-align: center; max-width: 800px; margin: 2rem auto;">
   
 </div>
 
 
 ### Past
 
-<div style="text-align: center; max-width: 600px; margin: 2rem auto; font-family: 'Dosis', sans-serif;">
+<div style="text-align: center; max-width: 800px; margin: 2rem auto;">
   <p>
     <strong>Fantasia</strong>: an Evening of 17th-Century Chamber Music <br>
     Evangelical Lutheran Church of the Holy Trinity 3.W 65th St., New York, NY <br>
