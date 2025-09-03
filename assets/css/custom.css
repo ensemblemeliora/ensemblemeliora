@@ -180,11 +180,13 @@ strong, b {
 
   .image-column img {
     width: 100%;   /* make image responsive to full width on mobile */
+    order: 2; /* image appears first for mobile users*/
   }
 
     .text-column {
     margin: 1rem 0;   /
     padding: 0 1rem;  
+    order: 1; /* image appears first for mobile users*/
   }
 }
 
