@@ -172,11 +172,11 @@ strong, b {
 
   .text-column,
   .image-column {
-    margin-left: 1rem;
+    margin-left: 0rem;
     padding: 0 1rem; 
-    margin-right: 1rem;
+    margin-right: 0rem;
     flex: unset;              /* variable sizing*/
-    width: 100%;
+    width: 90%;
   }
 
   .image-column img {
