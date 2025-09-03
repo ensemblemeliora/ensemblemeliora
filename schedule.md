@@ -22,7 +22,7 @@ after_banner: true
     <strong>Fantasia</strong>: an Evening of 17th-Century Chamber Music <br>
     Evangelical Lutheran Church of the Holy Trinity 3.W 65th St., New York, NY <br>
     Saturday, August 24, 2025 <br>
-    and <br>
+    <em>and</em> <br>
     St. John's in the Village Church - 224 Waverly Pl. New York, NY <br>
     Saturday, August 23, 2025 <br>
     <a href="https://drive.google.com/file/d/1_5D-rb6YZHDw3d3J9vgl0KQV77ChwrCi/view?usp=sharing">Program</a><br>
