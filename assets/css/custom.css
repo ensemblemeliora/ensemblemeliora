@@ -181,6 +181,11 @@ strong, b {
   .image-column img {
     width: 100%;   /* make image responsive to full width on mobile */
   }
+
+    .text-column {
+    margin: 1rem 0;   /
+    padding: 0 1rem;  
+  }
 }
 
 /* --- NAVIGATION --- */
