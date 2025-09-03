@@ -355,7 +355,8 @@ div.icon-text p {
     display: flex;
     flex-direction: column;       /* vertical stack */
     gap: 0.5rem;
-    width: 100%;
+    width: 200%;   /* or whatever you need */
+    margin-left: -2rem; /* shift back to align left */
     box-sizing: border-box;
   }
 
