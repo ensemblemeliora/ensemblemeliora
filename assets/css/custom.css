@@ -184,7 +184,7 @@ strong, b {
   }
 
     .text-column {
-    margin: 1rem 0;   /
+    margin: 1rem 0; 
     padding: 0 1rem;  
     order: 1; /* image appears first for mobile users*/
   }
