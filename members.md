@@ -11,7 +11,7 @@ after_banner: true
 <div class="icon-grid">
   <div class="icon-item">
     <button class="icon-toggle" data-text="emma">
-      <img src="{{ site.baseurl }}/assets/img/headshots/ensemblemeliora-060.jpg" alt="Icon 1" />
+      <img src="{{ site.baseurl }}/assets/img/headshots/e2.jpg" alt="Icon 1" />
     </button>
   </div>
 
@@ -56,9 +56,9 @@ after_banner: true
 <div id="text-display" class="wide-text"></div>
 
 <div id="emma" class="icon-text" style="display:none;">
-  <p>Originally from Brooklyn, NY, <strong>Emma Milian</strong> holds a Master’s degree in Violin Performance from the University of North Texas College of Music and is a graduate of the Eastman School of Music with a Bachelor’s degree in Violin Performance, a certificate in Arts Leadership, and a certificate in Performance Practice. Ms. Milian looks forward to pursuing her Master’s degree in Baroque Violin Performance with the Juilliard Historical Performance program starting in Fall 2025.</p>
- <p>Ms. Milian is a violinist with a wide variety of musical interests including contemporary works and early music. Recently, she recorded composer Charles Peck’s work for solo violin, Filament, which will be released soon. During her time at Eastman, she performed in the Rochester Early Music Festival with the Eastman Collegium and served as concertmaster in the Eastman Bach Cantata series, Eastman Symphony Orchestra, Eastman Philharmonia, and the Empire Film and Media Ensemble. In 2023, she recorded the score (composed by Mark Watters) for WXXI’s upcoming documentary on Eastman. In addition to her work in Rochester, Ms. Milian has performed in many venues across New York City, including Carnegie Hall, the Dimenna Center for Classical Music, Symphony Space, and the National Arts Club. </p>
-<p>While at Eastman, Ms. Milian developed a passion for baroque music which she continued to pursue at UNT. She has been featured as a soloist with the UNT Baroque Orchestra, and in the summer of 2024, she toured Brazil with the UNT Fantasmi Ensemble. She has also been a member of the Dallas Bach Society orchestra and played on their recently released album recording of Handel’s Messiah, as well as the Saint John’s Passion album which will be released soon. She currently performs on a violin by Nicol Gusetto, Cremona, 1728, generously on loan from the Juilliard School. </p>
+  <p>Originally from Brooklyn, NY, Emma Milian holds a Master’s degree in Violin Performance from the University of North Texas College of Music and is a graduate of the Eastman School of Music with a Bachelor’s degree in Violin Performance, a certificate in Arts Leadership, and a certificate in Performance Practice. Emma is currently pursuing a Master’s degree in Violin with the Juilliard Historical Performance program.</p>
+
+<p>Emma is a violinist with a wide variety of musical interests including contemporary works and early music. As a soloist, she has been featured with the UNT Baroque Orchestra, and recently recorded composer Charles Peck’s work for solo violin, Filament, which will be released soon. As an ensemble musician, she has performed in the Rochester Early Music Festival with the Eastman Collegium, and served as concertmaster in the Eastman Bach Cantata series, Eastman Philharmonia, and the Empire Film and Media Ensemble. In the summer of 2024, she toured Brazil with the UNT Fantasmi Ensemble. She has also been a member of the Dallas Bach Society orchestra and played on their recently released album recording of Handel’s Messiah, as well as the Saint John’s Passion album which will be released soon. In addition to her work in Rochester and Dallas, Emma has performed in many venues across New York City, including Alice Tully Hall, Carnegie Hall, the Dimenna Center for Classical Music, Symphony Space, and the National Arts Club</p>
 
 </div>
 <div id="andrew" class="icon-text" style="display:none;">
