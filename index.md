@@ -12,7 +12,7 @@ title: Ensemble Meliora
 <div class="text-image-row">
   <div class="text-column">
     <p>
-    <strong>Ensemble Meliora</strong> is an early music group based in the East Coast. With members hailing from New York, Chicago, Baltimore, and abroad, Ensemble Meliora boasts a roster with some of today's most in-demand young performers. Meeting in undergraduate practice rooms, late night viol consort rehearsals, and summer festivals, we've put together a band of truly wonderful and inquisitive musicians and people. We hope you join us in our mission to become <strong><em>ever better</em></strong> through our exploration of the past.
+      <strong>Ensemble Meliora</strong> is a historical performance ensemble based on the East Coast, founded by Rachel Smith and Juliana Kauls-Kilcoyne. With musicians hailing from Chicago, NYC, Rochester, Baltimore, and abroad, all members of Ensemble Meliora work together to create programming that highlights unusual, forgotten, or unexplored corners of the early repertoire. We share our love for this music with audiences from all backgrounds at our free concerts. 
     </p>
   </div>
   <div class="image-column">
@@ -26,16 +26,16 @@ title: Ensemble Meliora
   </div>
   <div class="text-column">
     <p>
-Recent concerts have included the ensemble’s <strong>Boston Early Music Festival</strong> fringe concert debut, and its very first tour in <strong>New York City</strong>. These programs included <strong>lesser-known gems</strong> by Albicastro, Purcell, Buxtehude, Castello, Marini, and the modern premiere of an anonymous work from the Rost Codex. 
+Several members of Ensemble Meliora met during their time in the early music ensemble at the Eastman School of Music: the Eastman Collegium. Inspired by the school motto, Meliora, (ever better), we recruited fellow musicians and friends from the early music scene to form an ensemble which would work to make the world of music <em><strong>ever better</strong></em>. 
     </p>
     <p>
-  Ensemble Meliora is bringing rarely performed gems of the Baroque repertoire to life, spotlighting the <strong>quirky</strong>, <strong>bold</strong>, and <strong>beautiful</strong> corners of early music that deserve a broader audience. With every concert, we hope to challenge expectations and celebrate the expressive power of <strong>period performance</strong>.
+  Through <strong>research</strong>, we discover forgotten works and bring them to light. Through <strong>community</strong>, we establish spaces where all audiences are welcome and concert admission is free. Through our <strong>love for early music</strong>, we hope to inspire and uplift others.
     </p>
   </div>
 </div>
 <br>
 <p style="text-align: center; margin: 0 1rem;">
-  Join us for fresh takes on the <strong>classics</strong> and bold forays into the <strong>new</strong>.
+  We hope you join us in our mission to become <em>ever better</em> through our exploration of the past.
 </p>
 <br>
 
