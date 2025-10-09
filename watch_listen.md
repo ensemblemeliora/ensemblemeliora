@@ -8,9 +8,6 @@ after_banner: true
 
 <div style="height: 15rem;"></div>
 
-Videos
-
-
 
 <div style="display: flex; justify-content: center;">
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
