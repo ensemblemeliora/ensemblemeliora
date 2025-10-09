@@ -5,7 +5,7 @@ permalink: /schedule/
 shrink_header: true
 after_banner: true
 ---
-
+ 
 <div style="height: 8rem;"></div>
 
 ### Upcoming
