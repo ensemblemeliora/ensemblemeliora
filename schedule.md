@@ -12,11 +12,21 @@ after_banner: true
 
 <div style="text-align: center; max-width: 800px; margin: 2rem auto;">
   <p>
+    <strong>With Drooping Wings: A Hallows Eve Concert</strong> <br>
+    Evangelical Lutheran Church of the Holy Trinity <br>
+    3 W 65th St. New York, NY 10023 <br>
+    Friday, October 24th, 2025, 7:30PM <br>
+    Free admission <br>
+  </p>
+</div>
+
+<div style="text-align: center; max-width: 800px; margin: 2rem auto;">
+  <p>
     <strong>Rush Hour Performance: Ensemble Meliora and Jane Austen’s Salon</strong> <br>
     Juilliard Station 130 W. 66th St., New York, NY 10023 <br>
     Friday, Oct 10, 2025, 6:00PM <br>
-    <br>
-    Works by Smith, Handel, Boyce, and Arne, and traditional dances from the music library of Jane Austen <br>
+    Music from the music library of Jane Austen, including works by Smith, Handel, Boyce, and Arne, along with traditional dances  <br>
+    Free admission <br>
   </p>
 </div>
 
