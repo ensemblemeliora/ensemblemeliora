@@ -12,7 +12,7 @@ after_banner: true
 
 <div style="text-align: center; max-width: 800px; margin: 2rem auto;">
   <p>
-    <strong>With Drooping Wings: A Hallows Eve Concert</strong> <br>
+    <strong>With Drooping Wings: An All Hallows' Eve Concert</strong> <br>
     Evangelical Lutheran Church of the Holy Trinity <br>
     3 W 65th St. New York, NY 10023 <br>
     Friday, October 24th, 2025, 7:30PM <br>
