@@ -20,6 +20,8 @@ after_banner: true
   </p>
 </div>
 
+### Past
+
 <div style="text-align: center; max-width: 800px; margin: 2rem auto;">
   <p>
     <strong>Rush Hour Performance: Ensemble Meliora and Jane Austen’s Salon</strong> <br>
@@ -29,9 +31,6 @@ after_banner: true
     Free admission <br>
   </p>
 </div>
-
-
-### Past
 
 <div style="text-align: center; max-width: 800px; margin: 2rem auto;">
   <p>
