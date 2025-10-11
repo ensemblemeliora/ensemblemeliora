@@ -27,8 +27,8 @@ after_banner: true
     <strong>Rush Hour Performance: Ensemble Meliora and Jane Austen’s Salon</strong> <br>
     Juilliard Station 130 W. 66th St., New York, NY 10023 <br>
     Friday, Oct 10, 2025, 6:00PM <br>
-    Music from the music library of Jane Austen, including works by Smith, Handel, Boyce, and Arne, along with traditional dances  <br>
-    Free admission <br>
+    Music from the music library of Jane Austen, including works by Smith, Handel, Boyce, and Arne, along with traditional dances <br>
+   &#10070; <br>
   </p>
 </div>
 
