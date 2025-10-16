@@ -6,7 +6,7 @@ shrink_header: true
 after_banner: true
 ---
 
-<div style="height: 15rem;"></div>
+<div style="height: 8rem;"></div>
 
 #### Our Vision:
 
