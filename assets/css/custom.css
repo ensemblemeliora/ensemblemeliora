@@ -104,6 +104,16 @@ h2 {
   text-align: center;
 }
 
+/* headers */
+h2 {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 7rem;
+  font-weight: 600;
+  color: #849b8e;
+  text-align: center;
+}
+
+
 /* mobile h2 */
 @media (max-width: 768px) {
   h2{
@@ -117,6 +127,23 @@ h3 {
   font-size: 5rem;
   font-weight: 200;
   color: #000000;
+}
+
+/*Header for Our Vision*/
+h4 {
+  text-align: center;
+    font-family: 'Cormorant Garamond', serif;
+  font-size: 7rem;
+  font-style: italic;
+  font-weight: 200;
+  color: #000000;
+}
+
+/* mobile h4 */
+@media (max-width: 768px) {
+  h2{
+    font-size: 5rem;
+  }
 }
 
 /* Style all paragraph text */
