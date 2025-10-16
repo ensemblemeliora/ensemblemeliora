@@ -16,7 +16,7 @@ after_banner: true
   <p>We envision a world where everyone has access to music. Driven by our love for early music, we revive forgotten and marginalized repertoire to inspire discovery, creativity, and connection across our community. </p>
 </div>
 
-#### Our Mission
+#### Our Mission:
 
 <div style="text-align: center; max-width: 800px; margin: 2rem auto;">
   <p>Ensemble Meliora is a historical performance ensemble based on the East Coast with musicians hailing from Chicago, NYC, Rochester, Baltimore, and beyond. Driven by a vivacious excitement for the weird and wonderful corners of forgotten early music, we actively strive toward an ever better collection of historical repertoire that expands and redefines the story of music. Our mission is to share early music with wider audiences and transform the concert experience into something welcoming, inclusive, and accessible to all.
