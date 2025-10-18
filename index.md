@@ -26,15 +26,10 @@ title: Ensemble Meliora
   </div>
   <div class="text-column">
     <p>
-The seeds of our ensemble were planted in the classrooms of the Eastman School of Music. The spark of creativity was ignited amongst members of the Collegium Musicum, a place where musicians could experiment and broaden their musical horizons. Inspired by Eastman’s motto, <em>Meliora (ever better)</em>, we formed an ensemble dedicated to discovery through experimentation, to provide an ever better experience for our community, and an ever better understanding of music history.  Through <strong>research</strong>, we discover forgotten works and bring them to light. Through <strong>community</strong>, we establish spaces where all audiences are welcome. Through our <strong>love for early music</strong>, we show that the creativity of the past can inspire the imagination of the present. 
+The seeds of our ensemble were planted in the classrooms of the Eastman School of Music. The spark of creativity was ignited amongst members of the Collegium Musicum, a place where musicians could experiment and broaden their musical horizons. Inspired by Eastman’s motto, <em>Meliora (ever better)</em>, we formed an ensemble dedicated to discovery through experimentation, to provide an ever better experience for our community, and an ever better understanding of music history.  Through <strong>research</strong>, we discover forgotten works and bring them to light. Through <strong>community</strong>, we establish spaces where all audiences are welcome. Through our <strong>love for early music</strong>, we show that the creativity of the past can inspire the imagination of the present.  We strive toward <em>meliora</em> for all who believe that music can lift the human spirit, illuminate our history, and unite us in harmony. 
     </p>
   </div>
 </div>
-<br>
-<p style="text-align: center; margin: 0 1rem;">
-  We strive toward <em>meliora</em> for all who believe that music can lift the human spirit, illuminate our history, and unite us in harmony. 
-</p>
-<br>
 
 
 
